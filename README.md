@@ -2,7 +2,7 @@
 
 Quick start:
 
-You can check the website live at :
+You can check the website live at : https://prabirs-counter-app-js.netlify.app/
 
 ## About Me
 
@@ -11,7 +11,9 @@ I'm available here: https://twitter.com/prabirshub
 
 ### This is one of the best tutorial for learning web development and i strongly reccoment Scrimba to a beginner or any one who want to learn web development. Thnaks 🤩
 
-## Enjoy learning it🥳. Down below is liitle about SCRIMBA
+### Enjoy learning it🥳.
+
+## About SCRIMBA
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
 If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
